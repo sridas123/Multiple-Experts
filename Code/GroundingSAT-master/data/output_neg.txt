@@ -1,0 +1,2912 @@
+Ex: advisedBy(person62,person191)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person102,person370)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person206,person416)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person340,person299)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person300,person419)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person287,person36)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person104,person362)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person431,person23)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person242,person422)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person111,person296)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person9,person179)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person191,person108)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person351,person155)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person40,person402)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person100,person81)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person113,person297)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person46,person222)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person90,person68)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person435,person71)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person390,person335)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person298,person77)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person131,person393)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person343,person394)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person429,person261)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person278,person234)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person46,person230)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person248,person80)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person230,person200)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person232,person100)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person77,person149)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person76,person126)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person157,person267)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person72,person27)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person230,person111)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person370,person267)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person149,person201)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person129,person75)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person140,person207)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person181,person167)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person288,person57)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person242,person218)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person155,person31)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person231,person23)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person81,person206)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person362,person31)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person80,person402)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person419,person294)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person181,person189)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person175,person40)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person108,person427)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person404,person402)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person22,person111)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person303,person204)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person278,person57)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person3,person358)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person89,person390)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person427,person350)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person212,person118)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person15,person68)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person280,person212)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person3,person331)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person270,person76)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person279,person287)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person310,person76)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person207,person107)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person206,person297)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person378,person296)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person322,person422)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person182,person27)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person126,person90)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person350,person188)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person207,person87)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person206,person188)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person328,person416)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person154,person88)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person99,person198)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person419,person296)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person416,person328)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person92,person130)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person89,person126)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person189,person374)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person416,person9)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person296,person165)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person36,person142)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person40,person298)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person278,person230)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person52,person398)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person401,person350)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person279,person253)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person203,person212)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person335,person41)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person398,person88)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person241,person348)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person144,person191)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person213,person99)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person428,person288)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person29,person167)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person297,person90)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person364,person178)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person294,person4)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person288,person378)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person181,person354)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person189,person280)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person87,person36)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person218,person23)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person72,person19)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person218,person362)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person218,person205)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person232,person419)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person46,person103)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person130,person309)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person131,person172)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person340,person214)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person92,person310)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person228,person99)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person226,person146)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person325,person296)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person90,person364)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person270,person404)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person348,person85)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person188,person124)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person157,person15)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person419,person298)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person335,person98)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person403,person401)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person269,person398)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person393,person104)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person142,person374)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person203,person52)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person188,person297)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person130,person126)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person358,person315)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person267,person115)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person46,person186)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person167,person138)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person348,person188)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person397,person303)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person394,person105)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person172,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person195,person29)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person378,person416)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person182,person335)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person105,person290)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person82,person3)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person89,person294)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person261,person331)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person144,person315)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person90,person383)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person39,person309)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person126,person343)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person321,person23)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person131,person200)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person62,person277)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person297,person186)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person166,person27)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person403,person200)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+
+
+
+Ex: advisedBy(person62,person191)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person102,person370)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person206,person416)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person340,person299)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person300,person419)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person287,person36)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person104,person362)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person431,person23)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person242,person422)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person111,person296)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person9,person179)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person191,person108)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person351,person155)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person40,person402)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person100,person81)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person113,person297)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person46,person222)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person90,person68)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person435,person71)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person390,person335)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person298,person77)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person131,person393)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person343,person394)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person429,person261)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person278,person234)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person46,person230)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person248,person80)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person230,person200)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person232,person100)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person77,person149)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person76,person126)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person157,person267)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person72,person27)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person230,person111)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person370,person267)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person149,person201)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person129,person75)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person140,person207)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person181,person167)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person288,person57)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person242,person218)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person155,person31)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person231,person23)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person81,person206)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person362,person31)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person80,person402)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person419,person294)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person181,person189)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person175,person40)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person108,person427)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person404,person402)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person22,person111)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person303,person204)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person278,person57)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person3,person358)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person89,person390)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person427,person350)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person212,person118)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person15,person68)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person280,person212)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person3,person331)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person270,person76)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person279,person287)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person310,person76)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person207,person107)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person206,person297)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person378,person296)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person322,person422)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person182,person27)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person126,person90)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person350,person188)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person207,person87)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person206,person188)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person328,person416)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person154,person88)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person99,person198)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person419,person296)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person416,person328)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person92,person130)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person89,person126)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person189,person374)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person416,person9)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person296,person165)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person36,person142)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person40,person298)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person278,person230)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person52,person398)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person401,person350)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person279,person253)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person203,person212)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person335,person41)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person398,person88)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person241,person348)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person144,person191)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person213,person99)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person428,person288)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person29,person167)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person297,person90)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person364,person178)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person294,person4)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person288,person378)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person181,person354)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person189,person280)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person87,person36)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person218,person23)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person72,person19)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person218,person362)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person218,person205)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person232,person419)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person46,person103)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person130,person309)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person131,person172)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person340,person214)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person92,person310)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person228,person99)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person226,person146)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person325,person296)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person90,person364)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person270,person404)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person348,person85)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person188,person124)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person157,person15)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person419,person298)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person335,person98)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person403,person401)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person269,person398)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person393,person104)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person142,person374)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person203,person52)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person188,person297)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person130,person126)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person358,person315)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person267,person115)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person46,person186)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person167,person138)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person348,person188)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person397,person303)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person394,person105)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person172,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person195,person29)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person378,person416)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person182,person335)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person105,person290)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person82,person3)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person89,person294)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person261,person331)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person144,person315)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person90,person383)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person39,person309)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person126,person343)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person321,person23)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person131,person200)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person62,person277)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person297,person186)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person166,person27)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person403,person200)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+
+
+
+Ex: advisedBy(person62,person191)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person102,person370)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person206,person416)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person340,person299)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person300,person419)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person287,person36)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person104,person362)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person431,person23)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person242,person422)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person111,person296)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person9,person179)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title143
+faculty,post_Generals,title338
+faculty,post_Generals,title51
+faculty,post_Generals,title64
+
+
+]
+Ex: advisedBy(person191,person108)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person351,person155)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person40,person402)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person100,person81)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person113,person297)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person46,person222)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person90,person68)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person435,person71)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person390,person335)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,pre_Quals,title106
+faculty,pre_Quals,title130
+faculty,pre_Quals,title14
+
+
+]
+Ex: advisedBy(person298,person77)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person131,person393)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person343,person394)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,pre_Quals,title183
+faculty,pre_Quals,title30
+
+
+]
+Ex: advisedBy(person429,person261)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person278,person234)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,pre_Quals,title101
+faculty,pre_Quals,title117
+faculty,pre_Quals,title121
+faculty,pre_Quals,title141
+faculty,pre_Quals,title144
+faculty,pre_Quals,title168
+faculty,pre_Quals,title169
+faculty,pre_Quals,title17
+faculty,pre_Quals,title176
+faculty,pre_Quals,title189
+faculty,pre_Quals,title194
+faculty,pre_Quals,title196
+faculty,pre_Quals,title198
+faculty,pre_Quals,title204
+faculty,pre_Quals,title209
+faculty,pre_Quals,title213
+faculty,pre_Quals,title234
+faculty,pre_Quals,title237
+faculty,pre_Quals,title239
+faculty,pre_Quals,title247
+faculty,pre_Quals,title249
+faculty,pre_Quals,title28
+faculty,pre_Quals,title285
+faculty,pre_Quals,title289
+faculty,pre_Quals,title294
+faculty,pre_Quals,title3
+faculty,pre_Quals,title315
+faculty,pre_Quals,title332
+faculty,pre_Quals,title339
+faculty,pre_Quals,title342
+faculty,pre_Quals,title43
+faculty,pre_Quals,title46
+faculty,pre_Quals,title48
+faculty,pre_Quals,title53
+faculty,pre_Quals,title58
+faculty,pre_Quals,title65
+faculty,pre_Quals,title69
+faculty,pre_Quals,title7
+faculty,pre_Quals,title74
+faculty,pre_Quals,title76
+faculty,pre_Quals,title80
+faculty,pre_Quals,title81
+faculty,pre_Quals,title91
+faculty,pre_Quals,title96
+
+
+]
+Ex: advisedBy(person46,person230)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person248,person80)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person230,person200)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person232,person100)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person77,person149)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person76,person126)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person157,person267)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person72,person27)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person230,person111)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person370,person267)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person149,person201)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person129,person75)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person140,person207)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person181,person167)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person288,person57)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person242,person218)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person155,person31)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person231,person23)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person81,person206)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person362,person31)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person80,person402)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person419,person294)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person181,person189)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person175,person40)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title1
+faculty,post_Generals,title322
+faculty,post_Generals,title346
+
+
+]
+Ex: advisedBy(person108,person427)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person404,person402)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person22,person111)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person303,person204)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person278,person57)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person3,person358)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person89,person390)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person427,person350)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person212,person118)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person15,person68)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person280,person212)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person3,person331)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person270,person76)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person279,person287)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person310,person76)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person207,person107)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person206,person297)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person378,person296)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person322,person422)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person182,person27)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person126,person90)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person350,person188)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person207,person87)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person206,person188)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person328,person416)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person154,person88)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person99,person198)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person419,person296)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person416,person328)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person92,person130)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person89,person126)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person189,person374)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person416,person9)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person296,person165)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person36,person142)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person40,person298)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person278,person230)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person52,person398)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person401,person350)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person279,person253)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person203,person212)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person335,person41)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person398,person88)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person241,person348)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person144,person191)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person213,person99)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person428,person288)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person29,person167)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person297,person90)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person364,person178)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person294,person4)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person288,person378)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title127
+faculty,post_Generals,title136
+faculty,post_Generals,title152
+faculty,post_Generals,title154
+faculty,post_Generals,title164
+faculty,post_Generals,title193
+faculty,post_Generals,title202
+faculty,post_Generals,title243
+faculty,post_Generals,title308
+faculty,post_Generals,title326
+faculty,post_Generals,title327
+faculty,post_Generals,title328
+faculty,post_Generals,title334
+
+
+]
+Ex: advisedBy(person181,person354)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person189,person280)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person87,person36)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person218,person23)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person72,person19)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person218,person362)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person218,person205)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person232,person419)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person46,person103)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person130,person309)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person131,person172)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person340,person214)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person92,person310)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person228,person99)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person226,person146)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person325,person296)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person90,person364)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person270,person404)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person348,person85)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person188,person124)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person157,person15)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person419,person298)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title126
+faculty,post_Generals,title128
+faculty,post_Generals,title18
+faculty,post_Generals,title216
+faculty,post_Generals,title235
+faculty,post_Generals,title298
+faculty,post_Generals,title309
+faculty,post_Generals,title311
+faculty,post_Generals,title317
+faculty,post_Generals,title77
+
+
+]
+Ex: advisedBy(person335,person98)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person403,person401)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person269,person398)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person393,person104)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person142,person374)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person203,person52)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person188,person297)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person130,person126)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person358,person315)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person267,person115)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person46,person186)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person167,person138)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person348,person188)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person397,person303)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person394,person105)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person172,person342)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,pre_Quals,title109
+faculty,pre_Quals,title116
+faculty,pre_Quals,title135
+faculty,pre_Quals,title137
+faculty,pre_Quals,title15
+faculty,pre_Quals,title181
+faculty,pre_Quals,title263
+faculty,pre_Quals,title272
+faculty,pre_Quals,title302
+faculty,pre_Quals,title304
+faculty,pre_Quals,title35
+faculty,pre_Quals,title45
+faculty,pre_Quals,title85
+
+
+]
+Ex: advisedBy(person195,person29)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person378,person416)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person182,person335)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title106
+faculty,post_Quals,title130
+faculty,post_Quals,title14
+
+
+]
+Ex: advisedBy(person105,person290)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person82,person3)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person89,person294)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person261,person331)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person144,person315)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person90,person383)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person39,person309)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person126,person343)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person321,person23)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person131,person200)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person62,person277)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person297,person186)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person166,person27)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person403,person200)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+
+
+

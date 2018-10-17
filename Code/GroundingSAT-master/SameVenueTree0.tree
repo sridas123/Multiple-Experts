@@ -1,0 +1,102 @@
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), HasWordAuthor(D, E), _HasWordAuthor(E, F), HasWordAuthor(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), HasWordAuthor(D, E), _HasWordAuthor(E, F), _Author(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), HasWordAuthor(D, E), _HasWordTitle(E, F), HasWordTitle(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), HasWordAuthor(D, E), _HasWordTitle(E, F), _Title(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), HasWordAuthor(D, E), _HasWordVenue(E, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), HasWordAuthor(D, E), _HasWordVenue(E, F), HasWordVenue(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), SameAuthor(D, E), HasWordAuthor(E, F), _HasWordVenue(F, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), SameAuthor(D, E), SameAuthor(E, F), HasWordAuthor(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), SameAuthor(D, E), SameAuthor(E, F), _Author(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), SameAuthor(D, E), _Author(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), SameAuthor(D, E), _Author(E, F), Venue(F, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), _Author(D, E), SameBib(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), _Author(D, E), SameBib(E, F), Venue(F, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), _Author(D, E), Title(E, F), HasWordTitle(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), _Author(D, E), Title(E, F), _Title(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), _Author(D, E), Venue(E, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordAuthor(C, D), _Author(D, E), Venue(E, F), HasWordVenue(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), HasWordTitle(D, E), _HasWordAuthor(E, F), HasWordAuthor(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), HasWordTitle(D, E), _HasWordAuthor(E, F), _Author(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), HasWordTitle(D, E), _HasWordTitle(E, F), HasWordTitle(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), HasWordTitle(D, E), _HasWordTitle(E, F), _Title(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), HasWordTitle(D, E), _HasWordVenue(E, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), HasWordTitle(D, E), _HasWordVenue(E, F), HasWordVenue(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), SameTitle(D, E), HasWordTitle(E, F), _HasWordVenue(F, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), SameTitle(D, E), SameTitle(E, F), HasWordTitle(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), SameTitle(D, E), SameTitle(E, F), _Title(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), SameTitle(D, E), _Title(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), SameTitle(D, E), _Title(E, F), Venue(F, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), _Title(D, E), Author(E, F), HasWordAuthor(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), _Title(D, E), Author(E, F), _Author(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), _Title(D, E), SameBib(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), _Title(D, E), SameBib(E, F), Venue(F, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), _Title(D, E), Venue(E, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordTitle(C, D), _Title(D, E), Venue(E, F), HasWordVenue(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, D), HasWordVenue(D, E), _HasWordAuthor(E, F), HasWordAuthor(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, D), HasWordVenue(D, E), _HasWordAuthor(E, F), _Author(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, D), HasWordVenue(D, E), _HasWordTitle(E, F), HasWordTitle(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, D), HasWordVenue(D, E), _HasWordTitle(E, F), _Title(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, D), HasWordVenue(D, E), _HasWordVenue(E, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, D), HasWordVenue(D, E), _HasWordVenue(E, F), HasWordVenue(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, D), _Venue(D, E), Author(E, F), HasWordAuthor(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, D), _Venue(D, E), Author(E, F), _Author(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, D), _Venue(D, E), SameBib(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, D), _Venue(D, E), SameBib(E, F), Venue(F, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, D), _Venue(D, E), Title(E, F), HasWordTitle(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  HasWordVenue(A, C), _HasWordVenue(C, D), _Venue(D, E), Title(E, F), _Title(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), HasWordAuthor(D, E), _HasWordAuthor(E, F), HasWordAuthor(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), HasWordAuthor(D, E), _HasWordAuthor(E, F), _Author(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), HasWordAuthor(D, E), _HasWordTitle(E, F), HasWordTitle(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), HasWordAuthor(D, E), _HasWordTitle(E, F), _Title(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), HasWordAuthor(D, E), _HasWordVenue(E, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), HasWordAuthor(D, E), _HasWordVenue(E, F), HasWordVenue(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), SameAuthor(D, E), HasWordAuthor(E, F), _HasWordVenue(F, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), SameAuthor(D, E), SameAuthor(E, F), HasWordAuthor(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), SameAuthor(D, E), SameAuthor(E, F), _Author(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), SameAuthor(D, E), _Author(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), SameAuthor(D, E), _Author(E, F), Venue(F, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), _Author(D, E), SameBib(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), _Author(D, E), SameBib(E, F), Venue(F, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), _Author(D, E), Title(E, F), HasWordTitle(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), _Author(D, E), Title(E, F), _Title(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), _Author(D, E), Venue(E, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Author(C, D), _Author(D, E), Venue(E, F), HasWordVenue(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Author(D, E), HasWordAuthor(E, F), _HasWordVenue(F, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Author(D, E), SameAuthor(E, F), HasWordAuthor(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Author(D, E), SameAuthor(E, F), _Author(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Author(D, E), _Author(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Author(D, E), _Author(E, F), Venue(F, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), SameBib(D, E), Author(E, F), HasWordAuthor(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), SameBib(D, E), Author(E, F), _Author(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), SameBib(D, E), SameBib(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), SameBib(D, E), SameBib(E, F), Venue(F, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), SameBib(D, E), Title(E, F), HasWordTitle(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), SameBib(D, E), Title(E, F), _Title(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), SameBib(D, E), Venue(E, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), SameBib(D, E), Venue(E, F), HasWordVenue(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Title(D, E), HasWordTitle(E, F), _HasWordVenue(F, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Title(D, E), SameTitle(E, F), HasWordTitle(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Title(D, E), SameTitle(E, F), _Title(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Title(D, E), _Title(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Title(D, E), _Title(E, F), Venue(F, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Venue(D, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Venue(D, E), HasWordVenue(E, F), _HasWordVenue(F, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), SameBib(C, D), Venue(D, E), _Venue(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), HasWordTitle(D, E), _HasWordAuthor(E, F), HasWordAuthor(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), HasWordTitle(D, E), _HasWordAuthor(E, F), _Author(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), HasWordTitle(D, E), _HasWordTitle(E, F), HasWordTitle(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), HasWordTitle(D, E), _HasWordTitle(E, F), _Title(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), HasWordTitle(D, E), _HasWordVenue(E, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), HasWordTitle(D, E), _HasWordVenue(E, F), HasWordVenue(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), SameTitle(D, E), HasWordTitle(E, F), _HasWordVenue(F, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), SameTitle(D, E), SameTitle(E, F), HasWordTitle(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), SameTitle(D, E), SameTitle(E, F), _Title(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), SameTitle(D, E), _Title(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), SameTitle(D, E), _Title(E, F), Venue(F, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), _Title(D, E), Author(E, F), HasWordAuthor(F, G), _HasWordVenue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), _Title(D, E), Author(E, F), _Author(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), _Title(D, E), SameBib(E, F), SameBib(F, G), Venue(G, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), _Title(D, E), SameBib(E, F), Venue(F, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), _Title(D, E), Venue(E, B) , !).
+(SameVenue(A, B, 0) :-  _Venue(A, C), Title(C, D), _Title(D, E), Venue(E, F), HasWordVenue(F, G), _HasWordVenue(G, B) , !).

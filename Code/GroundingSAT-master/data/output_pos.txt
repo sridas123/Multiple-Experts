@@ -1,0 +1,2336 @@
+Ex: advisedBy(person113,person394)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person217,person72)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title302
+
+
+]
+Ex: advisedBy(person228,person394)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person41,person394)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person113,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person228,person393)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person122,person72)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person300,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title181
+faculty,post_Generals,title35
+
+
+]
+Ex: advisedBy(person228,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person157,person72)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person206,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title137
+
+
+]
+Ex: advisedBy(person81,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title109
+faculty,post_Generals,title116
+faculty,post_Generals,title304
+faculty,post_Generals,title45
+
+
+]
+Ex: advisedBy(person81,person393)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title109
+faculty,post_Generals,title116
+faculty,post_Generals,title304
+faculty,post_Generals,title45
+
+
+]
+Ex: advisedBy(person163,person393)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person404,person72)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title201
+
+
+]
+Ex: advisedBy(person217,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title302
+
+
+]
+Ex: advisedBy(person200,person72)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person142,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title263
+
+
+]
+Ex: advisedBy(person206,person72)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title137
+
+
+]
+Ex: advisedBy(person435,person279)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person183,person5)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person362,person5)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person9,person335)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person96,person5)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person118,person5)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person263,person5)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person362,person335)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person18,person335)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person429,person335)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Quals,title14
+
+
+]
+Ex: advisedBy(person154,person235)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Quals,title281
+faculty,post_Quals,title37
+
+
+]
+Ex: advisedBy(person154,person124)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person62,person104)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person368,person180)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person403,person234)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title169
+faculty,post_Generals,title289
+faculty,post_Generals,title339
+faculty,post_Generals,title43
+faculty,post_Generals,title46
+faculty,post_Generals,title53
+faculty,post_Generals,title58
+faculty,post_Generals,title7
+faculty,post_Generals,title96
+
+
+]
+Ex: advisedBy(person80,person234)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title101
+faculty,post_Generals,title168
+faculty,post_Generals,title169
+faculty,post_Generals,title17
+faculty,post_Generals,title176
+faculty,post_Generals,title189
+faculty,post_Generals,title237
+faculty,post_Generals,title247
+faculty,post_Generals,title28
+faculty,post_Generals,title285
+faculty,post_Generals,title339
+faculty,post_Generals,title342
+faculty,post_Generals,title46
+faculty,post_Generals,title65
+faculty,post_Generals,title96
+
+
+]
+Ex: advisedBy(person89,person104)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person212,person180)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title173
+
+
+]
+Ex: advisedBy(person67,person375)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person426,person179)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person357,person124)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Quals,title141
+faculty,post_Quals,title294
+
+
+]
+Ex: advisedBy(person253,person101)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title131
+faculty,post_Generals,title157
+faculty,post_Generals,title214
+faculty,post_Generals,title245
+faculty,post_Generals,title282
+faculty,post_Generals,title56
+faculty,post_Generals,title68
+faculty,post_Generals,title75
+
+
+]
+Ex: advisedBy(person130,person124)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person155,person101)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person99,person104)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Quals,title180
+faculty,post_Quals,title186
+
+
+]
+Ex: advisedBy(person376,person179)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person376,person107)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Quals,title124
+faculty,post_Quals,title244
+faculty,post_Quals,title264
+faculty,post_Quals,title303
+faculty,post_Quals,title320
+
+
+]
+Ex: advisedBy(person374,person179)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person126,person213)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person218,person101)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title52
+faculty,post_Generals,title67
+
+
+]
+Ex: advisedBy(person92,person101)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person280,person101)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person116,person124)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person426,person235)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person419,person101)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title31
+
+
+]
+Ex: advisedBy(person67,person98)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person100,person104)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person100,person235)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Quals,title281
+faculty,post_Quals,title37
+
+
+]
+Ex: advisedBy(person129,person179)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person129,person234)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person391,person235)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person204,person104)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title149
+faculty,post_Generals,title186
+faculty,post_Generals,title277
+
+
+]
+Ex: advisedBy(person411,person373)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title146
+
+
+]
+Ex: advisedBy(person226,person324)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person159,person201)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person303,person165)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person141,person331)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person6,person29)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person249,person331)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title276
+faculty,post_Generals,title73
+faculty,post_Generals,title95
+
+
+]
+Ex: advisedBy(person288,person165)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person309,person378)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person242,person165)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title104
+faculty,post_Generals,title175
+faculty,post_Generals,title205
+faculty,post_Generals,title215
+faculty,post_Generals,title291
+faculty,post_Generals,title321
+faculty,post_Generals,title330
+
+
+]
+Ex: advisedBy(person6,person165)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person68,person201)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person303,person29)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person159,person57)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person75,person331)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty,post_Generals,title159
+faculty,post_Generals,title20
+
+
+]
+Ex: advisedBy(person348,person324)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+
+
+]
+Ex: advisedBy(person242,person29)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A)
+[
+C,D,UniqueVar1
+faculty_adjunct,post_Generals,title104
+faculty_adjunct,post_Generals,title175
+faculty_adjunct,post_Generals,title205
+faculty_adjunct,post_Generals,title215
+faculty_adjunct,post_Generals,title279
+faculty_adjunct,post_Generals,title291
+faculty_adjunct,post_Generals,title321
+faculty_adjunct,post_Generals,title330
+faculty_adjunct,post_Generals,title66
+
+
+]
+
+
+
+Ex: advisedBy(person113,person394)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person217,person72)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person228,person394)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person41,person394)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person113,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person228,person393)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person122,person72)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person300,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person228,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person157,person72)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person206,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person81,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person81,person393)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person163,person393)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person404,person72)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person217,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person200,person72)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person142,person342)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person206,person72)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person435,person279)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person183,person5)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person362,person5)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person9,person335)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person96,person5)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person118,person5)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person263,person5)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person362,person335)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person18,person335)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person429,person335)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person154,person235)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person154,person124)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person62,person104)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person368,person180)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person403,person234)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person80,person234)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person89,person104)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person212,person180)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person67,person375)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person426,person179)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person357,person124)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person253,person101)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person130,person124)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person155,person101)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person99,person104)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person376,person179)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person376,person107)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person374,person179)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person126,person213)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person218,person101)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person92,person101)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person280,person101)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person116,person124)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person426,person235)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person419,person101)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person67,person98)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person100,person104)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person100,person235)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person129,person179)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person129,person234)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person391,person235)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person204,person104)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person411,person373)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person226,person324)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person159,person201)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person303,person165)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person141,person331)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person6,person29)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person249,person331)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person288,person165)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person309,person378)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person242,person165)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person6,person165)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person68,person201)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person303,person29)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person159,person57)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person75,person331)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person348,person324)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+Ex: advisedBy(person242,person29)   RW: advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A)
+[
+D,C,E
+
+
+]
+
+
+
+Ex: advisedBy(person113,person394)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title183
+faculty,post_Generals,title30
+
+
+]
+Ex: advisedBy(person217,person72)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title137
+faculty,post_Generals,title183
+faculty,post_Generals,title201
+faculty,post_Generals,title30
+faculty,post_Generals,title302
+
+
+]
+Ex: advisedBy(person228,person394)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title183
+faculty,post_Quals,title30
+
+
+]
+Ex: advisedBy(person41,person394)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title183
+faculty,post_Quals,title30
+
+
+]
+Ex: advisedBy(person113,person342)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title109
+faculty,post_Generals,title116
+faculty,post_Generals,title135
+faculty,post_Generals,title137
+faculty,post_Generals,title15
+faculty,post_Generals,title181
+faculty,post_Generals,title263
+faculty,post_Generals,title272
+faculty,post_Generals,title302
+faculty,post_Generals,title304
+faculty,post_Generals,title35
+faculty,post_Generals,title45
+faculty,post_Generals,title85
+
+
+]
+Ex: advisedBy(person228,person393)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title1
+faculty,post_Quals,title109
+faculty,post_Quals,title111
+faculty,post_Quals,title116
+faculty,post_Quals,title123
+faculty,post_Quals,title135
+faculty,post_Quals,title153
+faculty,post_Quals,title181
+faculty,post_Quals,title220
+faculty,post_Quals,title272
+faculty,post_Quals,title304
+faculty,post_Quals,title322
+faculty,post_Quals,title346
+faculty,post_Quals,title35
+faculty,post_Quals,title4
+faculty,post_Quals,title45
+faculty,post_Quals,title60
+faculty,post_Quals,title85
+faculty,post_Quals,title93
+
+
+]
+Ex: advisedBy(person122,person72)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title137
+faculty,post_Quals,title183
+faculty,post_Quals,title201
+faculty,post_Quals,title30
+faculty,post_Quals,title302
+
+
+]
+Ex: advisedBy(person300,person342)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title109
+faculty,post_Generals,title116
+faculty,post_Generals,title135
+faculty,post_Generals,title137
+faculty,post_Generals,title15
+faculty,post_Generals,title181
+faculty,post_Generals,title263
+faculty,post_Generals,title272
+faculty,post_Generals,title302
+faculty,post_Generals,title304
+faculty,post_Generals,title35
+faculty,post_Generals,title45
+faculty,post_Generals,title85
+
+
+]
+Ex: advisedBy(person228,person342)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title109
+faculty,post_Quals,title116
+faculty,post_Quals,title135
+faculty,post_Quals,title137
+faculty,post_Quals,title15
+faculty,post_Quals,title181
+faculty,post_Quals,title263
+faculty,post_Quals,title272
+faculty,post_Quals,title302
+faculty,post_Quals,title304
+faculty,post_Quals,title35
+faculty,post_Quals,title45
+faculty,post_Quals,title85
+
+
+]
+Ex: advisedBy(person157,person72)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title137
+faculty,post_Quals,title183
+faculty,post_Quals,title201
+faculty,post_Quals,title30
+faculty,post_Quals,title302
+
+
+]
+Ex: advisedBy(person206,person342)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title109
+faculty,post_Generals,title116
+faculty,post_Generals,title135
+faculty,post_Generals,title137
+faculty,post_Generals,title15
+faculty,post_Generals,title181
+faculty,post_Generals,title263
+faculty,post_Generals,title272
+faculty,post_Generals,title302
+faculty,post_Generals,title304
+faculty,post_Generals,title35
+faculty,post_Generals,title45
+faculty,post_Generals,title85
+
+
+]
+Ex: advisedBy(person81,person342)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title109
+faculty,post_Generals,title116
+faculty,post_Generals,title135
+faculty,post_Generals,title137
+faculty,post_Generals,title15
+faculty,post_Generals,title181
+faculty,post_Generals,title263
+faculty,post_Generals,title272
+faculty,post_Generals,title302
+faculty,post_Generals,title304
+faculty,post_Generals,title35
+faculty,post_Generals,title45
+faculty,post_Generals,title85
+
+
+]
+Ex: advisedBy(person81,person393)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title1
+faculty,post_Generals,title109
+faculty,post_Generals,title111
+faculty,post_Generals,title116
+faculty,post_Generals,title123
+faculty,post_Generals,title135
+faculty,post_Generals,title153
+faculty,post_Generals,title181
+faculty,post_Generals,title220
+faculty,post_Generals,title272
+faculty,post_Generals,title304
+faculty,post_Generals,title322
+faculty,post_Generals,title346
+faculty,post_Generals,title35
+faculty,post_Generals,title4
+faculty,post_Generals,title45
+faculty,post_Generals,title60
+faculty,post_Generals,title85
+faculty,post_Generals,title93
+
+
+]
+Ex: advisedBy(person163,person393)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title1
+faculty,post_Quals,title109
+faculty,post_Quals,title111
+faculty,post_Quals,title116
+faculty,post_Quals,title123
+faculty,post_Quals,title135
+faculty,post_Quals,title153
+faculty,post_Quals,title181
+faculty,post_Quals,title220
+faculty,post_Quals,title272
+faculty,post_Quals,title304
+faculty,post_Quals,title322
+faculty,post_Quals,title346
+faculty,post_Quals,title35
+faculty,post_Quals,title4
+faculty,post_Quals,title45
+faculty,post_Quals,title60
+faculty,post_Quals,title85
+faculty,post_Quals,title93
+
+
+]
+Ex: advisedBy(person404,person72)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title137
+faculty,post_Generals,title183
+faculty,post_Generals,title201
+faculty,post_Generals,title30
+faculty,post_Generals,title302
+
+
+]
+Ex: advisedBy(person217,person342)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title109
+faculty,post_Generals,title116
+faculty,post_Generals,title135
+faculty,post_Generals,title137
+faculty,post_Generals,title15
+faculty,post_Generals,title181
+faculty,post_Generals,title263
+faculty,post_Generals,title272
+faculty,post_Generals,title302
+faculty,post_Generals,title304
+faculty,post_Generals,title35
+faculty,post_Generals,title45
+faculty,post_Generals,title85
+
+
+]
+Ex: advisedBy(person200,person72)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title137
+faculty,post_Quals,title183
+faculty,post_Quals,title201
+faculty,post_Quals,title30
+faculty,post_Quals,title302
+
+
+]
+Ex: advisedBy(person142,person342)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title109
+faculty,post_Generals,title116
+faculty,post_Generals,title135
+faculty,post_Generals,title137
+faculty,post_Generals,title15
+faculty,post_Generals,title181
+faculty,post_Generals,title263
+faculty,post_Generals,title272
+faculty,post_Generals,title302
+faculty,post_Generals,title304
+faculty,post_Generals,title35
+faculty,post_Generals,title45
+faculty,post_Generals,title85
+
+
+]
+Ex: advisedBy(person206,person72)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title137
+faculty,post_Generals,title183
+faculty,post_Generals,title201
+faculty,post_Generals,title30
+faculty,post_Generals,title302
+
+
+]
+Ex: advisedBy(person435,person279)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person183,person5)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,pre_Quals,title106
+faculty,pre_Quals,title130
+
+
+]
+Ex: advisedBy(person362,person5)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title106
+faculty,post_Quals,title130
+
+
+]
+Ex: advisedBy(person9,person335)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title106
+faculty,post_Generals,title130
+faculty,post_Generals,title14
+
+
+]
+Ex: advisedBy(person96,person5)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title106
+faculty,post_Generals,title130
+
+
+]
+Ex: advisedBy(person118,person5)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title106
+faculty,post_Generals,title130
+
+
+]
+Ex: advisedBy(person263,person5)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title106
+faculty,post_Generals,title130
+
+
+]
+Ex: advisedBy(person362,person335)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title106
+faculty,post_Quals,title130
+faculty,post_Quals,title14
+
+
+]
+Ex: advisedBy(person18,person335)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,pre_Quals,title106
+faculty,pre_Quals,title130
+faculty,pre_Quals,title14
+
+
+]
+Ex: advisedBy(person429,person335)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title106
+faculty,post_Quals,title130
+faculty,post_Quals,title14
+
+
+]
+Ex: advisedBy(person154,person235)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title108
+faculty,post_Quals,title141
+faculty,post_Quals,title281
+faculty,post_Quals,title294
+faculty,post_Quals,title338
+faculty,post_Quals,title37
+faculty,post_Quals,title42
+faculty,post_Quals,title51
+
+
+]
+Ex: advisedBy(person154,person124)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title133
+faculty,post_Quals,title141
+faculty,post_Quals,title186
+faculty,post_Quals,title214
+faculty,post_Quals,title227
+faculty,post_Quals,title245
+faculty,post_Quals,title246
+faculty,post_Quals,title253
+faculty,post_Quals,title267
+faculty,post_Quals,title282
+faculty,post_Quals,title294
+faculty,post_Quals,title48
+
+
+]
+Ex: advisedBy(person62,person104)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,pre_Quals,title141
+faculty,pre_Quals,title149
+faculty,pre_Quals,title180
+faculty,pre_Quals,title186
+faculty,pre_Quals,title227
+faculty,pre_Quals,title246
+faculty,pre_Quals,title267
+faculty,pre_Quals,title277
+faculty,pre_Quals,title48
+
+
+]
+Ex: advisedBy(person368,person180)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title173
+
+
+]
+Ex: advisedBy(person403,person234)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title101
+faculty,post_Generals,title117
+faculty,post_Generals,title121
+faculty,post_Generals,title141
+faculty,post_Generals,title144
+faculty,post_Generals,title168
+faculty,post_Generals,title169
+faculty,post_Generals,title17
+faculty,post_Generals,title176
+faculty,post_Generals,title189
+faculty,post_Generals,title194
+faculty,post_Generals,title196
+faculty,post_Generals,title198
+faculty,post_Generals,title204
+faculty,post_Generals,title209
+faculty,post_Generals,title213
+faculty,post_Generals,title234
+faculty,post_Generals,title237
+faculty,post_Generals,title239
+faculty,post_Generals,title247
+faculty,post_Generals,title249
+faculty,post_Generals,title28
+faculty,post_Generals,title285
+faculty,post_Generals,title289
+faculty,post_Generals,title294
+faculty,post_Generals,title3
+faculty,post_Generals,title315
+faculty,post_Generals,title332
+faculty,post_Generals,title339
+faculty,post_Generals,title342
+faculty,post_Generals,title43
+faculty,post_Generals,title46
+faculty,post_Generals,title48
+faculty,post_Generals,title53
+faculty,post_Generals,title58
+faculty,post_Generals,title65
+faculty,post_Generals,title69
+faculty,post_Generals,title7
+faculty,post_Generals,title74
+faculty,post_Generals,title76
+faculty,post_Generals,title80
+faculty,post_Generals,title81
+faculty,post_Generals,title91
+faculty,post_Generals,title96
+
+
+]
+Ex: advisedBy(person80,person234)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title101
+faculty,post_Generals,title117
+faculty,post_Generals,title121
+faculty,post_Generals,title141
+faculty,post_Generals,title144
+faculty,post_Generals,title168
+faculty,post_Generals,title169
+faculty,post_Generals,title17
+faculty,post_Generals,title176
+faculty,post_Generals,title189
+faculty,post_Generals,title194
+faculty,post_Generals,title196
+faculty,post_Generals,title198
+faculty,post_Generals,title204
+faculty,post_Generals,title209
+faculty,post_Generals,title213
+faculty,post_Generals,title234
+faculty,post_Generals,title237
+faculty,post_Generals,title239
+faculty,post_Generals,title247
+faculty,post_Generals,title249
+faculty,post_Generals,title28
+faculty,post_Generals,title285
+faculty,post_Generals,title289
+faculty,post_Generals,title294
+faculty,post_Generals,title3
+faculty,post_Generals,title315
+faculty,post_Generals,title332
+faculty,post_Generals,title339
+faculty,post_Generals,title342
+faculty,post_Generals,title43
+faculty,post_Generals,title46
+faculty,post_Generals,title48
+faculty,post_Generals,title53
+faculty,post_Generals,title58
+faculty,post_Generals,title65
+faculty,post_Generals,title69
+faculty,post_Generals,title7
+faculty,post_Generals,title74
+faculty,post_Generals,title76
+faculty,post_Generals,title80
+faculty,post_Generals,title81
+faculty,post_Generals,title91
+faculty,post_Generals,title96
+
+
+]
+Ex: advisedBy(person89,person104)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title141
+faculty,post_Generals,title149
+faculty,post_Generals,title180
+faculty,post_Generals,title186
+faculty,post_Generals,title227
+faculty,post_Generals,title246
+faculty,post_Generals,title267
+faculty,post_Generals,title277
+faculty,post_Generals,title48
+
+
+]
+Ex: advisedBy(person212,person180)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title173
+
+
+]
+Ex: advisedBy(person67,person375)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty_emeritus,post_Generals,title117
+faculty_emeritus,post_Generals,title194
+faculty_emeritus,post_Generals,title213
+faculty_emeritus,post_Generals,title239
+faculty_emeritus,post_Generals,title74
+faculty_emeritus,post_Generals,title9
+faculty_emeritus,post_Generals,title91
+
+
+]
+Ex: advisedBy(person426,person179)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title143
+faculty,post_Quals,title338
+faculty,post_Quals,title51
+faculty,post_Quals,title64
+
+
+]
+Ex: advisedBy(person357,person124)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title133
+faculty,post_Quals,title141
+faculty,post_Quals,title186
+faculty,post_Quals,title214
+faculty,post_Quals,title227
+faculty,post_Quals,title245
+faculty,post_Quals,title246
+faculty,post_Quals,title253
+faculty,post_Quals,title267
+faculty,post_Quals,title282
+faculty,post_Quals,title294
+faculty,post_Quals,title48
+
+
+]
+Ex: advisedBy(person253,person101)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title131
+faculty,post_Generals,title133
+faculty,post_Generals,title139
+faculty,post_Generals,title141
+faculty,post_Generals,title148
+faculty,post_Generals,title157
+faculty,post_Generals,title174
+faculty,post_Generals,title197
+faculty,post_Generals,title2
+faculty,post_Generals,title214
+faculty,post_Generals,title223
+faculty,post_Generals,title245
+faculty,post_Generals,title282
+faculty,post_Generals,title294
+faculty,post_Generals,title31
+faculty,post_Generals,title52
+faculty,post_Generals,title56
+faculty,post_Generals,title67
+faculty,post_Generals,title68
+faculty,post_Generals,title75
+faculty,post_Generals,title8
+
+
+]
+Ex: advisedBy(person130,person124)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title133
+faculty,post_Generals,title141
+faculty,post_Generals,title186
+faculty,post_Generals,title214
+faculty,post_Generals,title227
+faculty,post_Generals,title245
+faculty,post_Generals,title246
+faculty,post_Generals,title253
+faculty,post_Generals,title267
+faculty,post_Generals,title282
+faculty,post_Generals,title294
+faculty,post_Generals,title48
+
+
+]
+Ex: advisedBy(person155,person101)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,pre_Quals,title131
+faculty,pre_Quals,title133
+faculty,pre_Quals,title139
+faculty,pre_Quals,title141
+faculty,pre_Quals,title148
+faculty,pre_Quals,title157
+faculty,pre_Quals,title174
+faculty,pre_Quals,title197
+faculty,pre_Quals,title2
+faculty,pre_Quals,title214
+faculty,pre_Quals,title223
+faculty,pre_Quals,title245
+faculty,pre_Quals,title282
+faculty,pre_Quals,title294
+faculty,pre_Quals,title31
+faculty,pre_Quals,title52
+faculty,pre_Quals,title56
+faculty,pre_Quals,title67
+faculty,pre_Quals,title68
+faculty,pre_Quals,title75
+faculty,pre_Quals,title8
+
+
+]
+Ex: advisedBy(person99,person104)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title141
+faculty,post_Quals,title149
+faculty,post_Quals,title180
+faculty,post_Quals,title186
+faculty,post_Quals,title227
+faculty,post_Quals,title246
+faculty,post_Quals,title267
+faculty,post_Quals,title277
+faculty,post_Quals,title48
+
+
+]
+Ex: advisedBy(person376,person179)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title143
+faculty,post_Quals,title338
+faculty,post_Quals,title51
+faculty,post_Quals,title64
+
+
+]
+Ex: advisedBy(person376,person107)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title124
+faculty,post_Quals,title169
+faculty,post_Quals,title17
+faculty,post_Quals,title176
+faculty,post_Quals,title198
+faculty,post_Quals,title209
+faculty,post_Quals,title244
+faculty,post_Quals,title264
+faculty,post_Quals,title300
+faculty,post_Quals,title303
+faculty,post_Quals,title320
+faculty,post_Quals,title96
+
+
+]
+Ex: advisedBy(person374,person179)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title143
+faculty,post_Generals,title338
+faculty,post_Generals,title51
+faculty,post_Generals,title64
+
+
+]
+Ex: advisedBy(person126,person213)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person218,person101)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title131
+faculty,post_Generals,title133
+faculty,post_Generals,title139
+faculty,post_Generals,title141
+faculty,post_Generals,title148
+faculty,post_Generals,title157
+faculty,post_Generals,title174
+faculty,post_Generals,title197
+faculty,post_Generals,title2
+faculty,post_Generals,title214
+faculty,post_Generals,title223
+faculty,post_Generals,title245
+faculty,post_Generals,title282
+faculty,post_Generals,title294
+faculty,post_Generals,title31
+faculty,post_Generals,title52
+faculty,post_Generals,title56
+faculty,post_Generals,title67
+faculty,post_Generals,title68
+faculty,post_Generals,title75
+faculty,post_Generals,title8
+
+
+]
+Ex: advisedBy(person92,person101)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title131
+faculty,post_Generals,title133
+faculty,post_Generals,title139
+faculty,post_Generals,title141
+faculty,post_Generals,title148
+faculty,post_Generals,title157
+faculty,post_Generals,title174
+faculty,post_Generals,title197
+faculty,post_Generals,title2
+faculty,post_Generals,title214
+faculty,post_Generals,title223
+faculty,post_Generals,title245
+faculty,post_Generals,title282
+faculty,post_Generals,title294
+faculty,post_Generals,title31
+faculty,post_Generals,title52
+faculty,post_Generals,title56
+faculty,post_Generals,title67
+faculty,post_Generals,title68
+faculty,post_Generals,title75
+faculty,post_Generals,title8
+
+
+]
+Ex: advisedBy(person280,person101)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,pre_Quals,title131
+faculty,pre_Quals,title133
+faculty,pre_Quals,title139
+faculty,pre_Quals,title141
+faculty,pre_Quals,title148
+faculty,pre_Quals,title157
+faculty,pre_Quals,title174
+faculty,pre_Quals,title197
+faculty,pre_Quals,title2
+faculty,pre_Quals,title214
+faculty,pre_Quals,title223
+faculty,pre_Quals,title245
+faculty,pre_Quals,title282
+faculty,pre_Quals,title294
+faculty,pre_Quals,title31
+faculty,pre_Quals,title52
+faculty,pre_Quals,title56
+faculty,pre_Quals,title67
+faculty,pre_Quals,title68
+faculty,pre_Quals,title75
+faculty,pre_Quals,title8
+
+
+]
+Ex: advisedBy(person116,person124)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,pre_Quals,title133
+faculty,pre_Quals,title141
+faculty,pre_Quals,title186
+faculty,pre_Quals,title214
+faculty,pre_Quals,title227
+faculty,pre_Quals,title245
+faculty,pre_Quals,title246
+faculty,pre_Quals,title253
+faculty,pre_Quals,title267
+faculty,pre_Quals,title282
+faculty,pre_Quals,title294
+faculty,pre_Quals,title48
+
+
+]
+Ex: advisedBy(person426,person235)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title108
+faculty,post_Quals,title141
+faculty,post_Quals,title281
+faculty,post_Quals,title294
+faculty,post_Quals,title338
+faculty,post_Quals,title37
+faculty,post_Quals,title42
+faculty,post_Quals,title51
+
+
+]
+Ex: advisedBy(person419,person101)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title131
+faculty,post_Generals,title133
+faculty,post_Generals,title139
+faculty,post_Generals,title141
+faculty,post_Generals,title148
+faculty,post_Generals,title157
+faculty,post_Generals,title174
+faculty,post_Generals,title197
+faculty,post_Generals,title2
+faculty,post_Generals,title214
+faculty,post_Generals,title223
+faculty,post_Generals,title245
+faculty,post_Generals,title282
+faculty,post_Generals,title294
+faculty,post_Generals,title31
+faculty,post_Generals,title52
+faculty,post_Generals,title56
+faculty,post_Generals,title67
+faculty,post_Generals,title68
+faculty,post_Generals,title75
+faculty,post_Generals,title8
+
+
+]
+Ex: advisedBy(person67,person98)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title139
+faculty,post_Generals,title148
+faculty,post_Generals,title174
+faculty,post_Generals,title197
+faculty,post_Generals,title2
+faculty,post_Generals,title223
+faculty,post_Generals,title8
+
+
+]
+Ex: advisedBy(person100,person104)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title141
+faculty,post_Quals,title149
+faculty,post_Quals,title180
+faculty,post_Quals,title186
+faculty,post_Quals,title227
+faculty,post_Quals,title246
+faculty,post_Quals,title267
+faculty,post_Quals,title277
+faculty,post_Quals,title48
+
+
+]
+Ex: advisedBy(person100,person235)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title108
+faculty,post_Quals,title141
+faculty,post_Quals,title281
+faculty,post_Quals,title294
+faculty,post_Quals,title338
+faculty,post_Quals,title37
+faculty,post_Quals,title42
+faculty,post_Quals,title51
+
+
+]
+Ex: advisedBy(person129,person179)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title143
+faculty,post_Generals,title338
+faculty,post_Generals,title51
+faculty,post_Generals,title64
+
+
+]
+Ex: advisedBy(person129,person234)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title101
+faculty,post_Generals,title117
+faculty,post_Generals,title121
+faculty,post_Generals,title141
+faculty,post_Generals,title144
+faculty,post_Generals,title168
+faculty,post_Generals,title169
+faculty,post_Generals,title17
+faculty,post_Generals,title176
+faculty,post_Generals,title189
+faculty,post_Generals,title194
+faculty,post_Generals,title196
+faculty,post_Generals,title198
+faculty,post_Generals,title204
+faculty,post_Generals,title209
+faculty,post_Generals,title213
+faculty,post_Generals,title234
+faculty,post_Generals,title237
+faculty,post_Generals,title239
+faculty,post_Generals,title247
+faculty,post_Generals,title249
+faculty,post_Generals,title28
+faculty,post_Generals,title285
+faculty,post_Generals,title289
+faculty,post_Generals,title294
+faculty,post_Generals,title3
+faculty,post_Generals,title315
+faculty,post_Generals,title332
+faculty,post_Generals,title339
+faculty,post_Generals,title342
+faculty,post_Generals,title43
+faculty,post_Generals,title46
+faculty,post_Generals,title48
+faculty,post_Generals,title53
+faculty,post_Generals,title58
+faculty,post_Generals,title65
+faculty,post_Generals,title69
+faculty,post_Generals,title7
+faculty,post_Generals,title74
+faculty,post_Generals,title76
+faculty,post_Generals,title80
+faculty,post_Generals,title81
+faculty,post_Generals,title91
+faculty,post_Generals,title96
+
+
+]
+Ex: advisedBy(person391,person235)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title108
+faculty,post_Quals,title141
+faculty,post_Quals,title281
+faculty,post_Quals,title294
+faculty,post_Quals,title338
+faculty,post_Quals,title37
+faculty,post_Quals,title42
+faculty,post_Quals,title51
+
+
+]
+Ex: advisedBy(person204,person104)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title141
+faculty,post_Generals,title149
+faculty,post_Generals,title180
+faculty,post_Generals,title186
+faculty,post_Generals,title227
+faculty,post_Generals,title246
+faculty,post_Generals,title267
+faculty,post_Generals,title277
+faculty,post_Generals,title48
+
+
+]
+Ex: advisedBy(person411,person373)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title146
+
+
+]
+Ex: advisedBy(person226,person324)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title105
+faculty,post_Quals,title158
+faculty,post_Quals,title19
+faculty,post_Quals,title21
+faculty,post_Quals,title210
+faculty,post_Quals,title27
+faculty,post_Quals,title62
+
+
+]
+Ex: advisedBy(person159,person201)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person303,person165)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title104
+faculty,post_Quals,title129
+faculty,post_Quals,title138
+faculty,post_Quals,title155
+faculty,post_Quals,title175
+faculty,post_Quals,title184
+faculty,post_Quals,title193
+faculty,post_Quals,title200
+faculty,post_Quals,title205
+faculty,post_Quals,title215
+faculty,post_Quals,title291
+faculty,post_Quals,title307
+faculty,post_Quals,title321
+faculty,post_Quals,title324
+faculty,post_Quals,title330
+
+
+]
+Ex: advisedBy(person141,person331)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title105
+faculty,post_Generals,title127
+faculty,post_Generals,title136
+faculty,post_Generals,title138
+faculty,post_Generals,title152
+faculty,post_Generals,title154
+faculty,post_Generals,title158
+faculty,post_Generals,title159
+faculty,post_Generals,title164
+faculty,post_Generals,title19
+faculty,post_Generals,title20
+faculty,post_Generals,title202
+faculty,post_Generals,title21
+faculty,post_Generals,title243
+faculty,post_Generals,title27
+faculty,post_Generals,title276
+faculty,post_Generals,title308
+faculty,post_Generals,title327
+faculty,post_Generals,title328
+faculty,post_Generals,title334
+faculty,post_Generals,title73
+faculty,post_Generals,title95
+
+
+]
+Ex: advisedBy(person6,person29)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty_adjunct,post_Quals,title104
+faculty_adjunct,post_Quals,title129
+faculty_adjunct,post_Quals,title155
+faculty_adjunct,post_Quals,title175
+faculty_adjunct,post_Quals,title184
+faculty_adjunct,post_Quals,title200
+faculty_adjunct,post_Quals,title205
+faculty_adjunct,post_Quals,title215
+faculty_adjunct,post_Quals,title279
+faculty_adjunct,post_Quals,title291
+faculty_adjunct,post_Quals,title307
+faculty_adjunct,post_Quals,title321
+faculty_adjunct,post_Quals,title324
+faculty_adjunct,post_Quals,title330
+faculty_adjunct,post_Quals,title66
+
+
+]
+Ex: advisedBy(person249,person331)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title105
+faculty,post_Generals,title127
+faculty,post_Generals,title136
+faculty,post_Generals,title138
+faculty,post_Generals,title152
+faculty,post_Generals,title154
+faculty,post_Generals,title158
+faculty,post_Generals,title159
+faculty,post_Generals,title164
+faculty,post_Generals,title19
+faculty,post_Generals,title20
+faculty,post_Generals,title202
+faculty,post_Generals,title21
+faculty,post_Generals,title243
+faculty,post_Generals,title27
+faculty,post_Generals,title276
+faculty,post_Generals,title308
+faculty,post_Generals,title327
+faculty,post_Generals,title328
+faculty,post_Generals,title334
+faculty,post_Generals,title73
+faculty,post_Generals,title95
+
+
+]
+Ex: advisedBy(person288,person165)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title104
+faculty,post_Generals,title129
+faculty,post_Generals,title138
+faculty,post_Generals,title155
+faculty,post_Generals,title175
+faculty,post_Generals,title184
+faculty,post_Generals,title193
+faculty,post_Generals,title200
+faculty,post_Generals,title205
+faculty,post_Generals,title215
+faculty,post_Generals,title291
+faculty,post_Generals,title307
+faculty,post_Generals,title321
+faculty,post_Generals,title324
+faculty,post_Generals,title330
+
+
+]
+Ex: advisedBy(person309,person378)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title127
+faculty,post_Quals,title136
+faculty,post_Quals,title152
+faculty,post_Quals,title154
+faculty,post_Quals,title164
+faculty,post_Quals,title193
+faculty,post_Quals,title202
+faculty,post_Quals,title243
+faculty,post_Quals,title308
+faculty,post_Quals,title326
+faculty,post_Quals,title327
+faculty,post_Quals,title328
+faculty,post_Quals,title334
+
+
+]
+Ex: advisedBy(person242,person165)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title104
+faculty,post_Generals,title129
+faculty,post_Generals,title138
+faculty,post_Generals,title155
+faculty,post_Generals,title175
+faculty,post_Generals,title184
+faculty,post_Generals,title193
+faculty,post_Generals,title200
+faculty,post_Generals,title205
+faculty,post_Generals,title215
+faculty,post_Generals,title291
+faculty,post_Generals,title307
+faculty,post_Generals,title321
+faculty,post_Generals,title324
+faculty,post_Generals,title330
+
+
+]
+Ex: advisedBy(person6,person165)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title104
+faculty,post_Quals,title129
+faculty,post_Quals,title138
+faculty,post_Quals,title155
+faculty,post_Quals,title175
+faculty,post_Quals,title184
+faculty,post_Quals,title193
+faculty,post_Quals,title200
+faculty,post_Quals,title205
+faculty,post_Quals,title215
+faculty,post_Quals,title291
+faculty,post_Quals,title307
+faculty,post_Quals,title321
+faculty,post_Quals,title324
+faculty,post_Quals,title330
+
+
+]
+Ex: advisedBy(person68,person201)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person303,person29)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty_adjunct,post_Quals,title104
+faculty_adjunct,post_Quals,title129
+faculty_adjunct,post_Quals,title155
+faculty_adjunct,post_Quals,title175
+faculty_adjunct,post_Quals,title184
+faculty_adjunct,post_Quals,title200
+faculty_adjunct,post_Quals,title205
+faculty_adjunct,post_Quals,title215
+faculty_adjunct,post_Quals,title279
+faculty_adjunct,post_Quals,title291
+faculty_adjunct,post_Quals,title307
+faculty_adjunct,post_Quals,title321
+faculty_adjunct,post_Quals,title324
+faculty_adjunct,post_Quals,title330
+faculty_adjunct,post_Quals,title66
+
+
+]
+Ex: advisedBy(person159,person57)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+
+
+]
+Ex: advisedBy(person75,person331)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Generals,title105
+faculty,post_Generals,title127
+faculty,post_Generals,title136
+faculty,post_Generals,title138
+faculty,post_Generals,title152
+faculty,post_Generals,title154
+faculty,post_Generals,title158
+faculty,post_Generals,title159
+faculty,post_Generals,title164
+faculty,post_Generals,title19
+faculty,post_Generals,title20
+faculty,post_Generals,title202
+faculty,post_Generals,title21
+faculty,post_Generals,title243
+faculty,post_Generals,title27
+faculty,post_Generals,title276
+faculty,post_Generals,title308
+faculty,post_Generals,title327
+faculty,post_Generals,title328
+faculty,post_Generals,title334
+faculty,post_Generals,title73
+faculty,post_Generals,title95
+
+
+]
+Ex: advisedBy(person348,person324)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty,post_Quals,title105
+faculty,post_Quals,title158
+faculty,post_Quals,title19
+faculty,post_Quals,title21
+faculty,post_Quals,title210
+faculty,post_Quals,title27
+faculty,post_Quals,title62
+
+
+]
+Ex: advisedBy(person242,person29)   RW: advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B)
+[
+C,D,E
+faculty_adjunct,post_Generals,title104
+faculty_adjunct,post_Generals,title129
+faculty_adjunct,post_Generals,title155
+faculty_adjunct,post_Generals,title175
+faculty_adjunct,post_Generals,title184
+faculty_adjunct,post_Generals,title200
+faculty_adjunct,post_Generals,title205
+faculty_adjunct,post_Generals,title215
+faculty_adjunct,post_Generals,title279
+faculty_adjunct,post_Generals,title291
+faculty_adjunct,post_Generals,title307
+faculty_adjunct,post_Generals,title321
+faculty_adjunct,post_Generals,title324
+faculty_adjunct,post_Generals,title330
+faculty_adjunct,post_Generals,title66
+
+
+]
+
+
+

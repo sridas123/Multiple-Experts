@@ -1,0 +1,3 @@
+advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, C); inPhase(A, D); publication(UniqueVar1, B); publication(UniqueVar1, A) , !).
+advisedBy(A, B, 0.8581489350995118) :- hasPosition(B, D); inPhase(A, C); publication(E, B); taughtByArg2(D, A) , !).
+advisedBy(A, B, 3) :- hasPosition(B, C); inPhase(A, D); publication(E, B) , !).
