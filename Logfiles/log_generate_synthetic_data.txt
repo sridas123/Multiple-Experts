@@ -1,2 +1,8 @@
-The true weight vector to be estimated is [[-0.1813023   3.16606662  3.08414658  2.64230344  2.16113795  2.65972371
-   2.0501622   2.35219347]]
+The true weight vector to be estimated is [[ 2.5 -3.5  6.  -5.   7.5  3.  -2.   4. ]]
+[4;33mReloaded modules[24m: Log_Reg[0m
+[4;33mReloaded modules[24m: Log_Reg[0m
+[4;33mReloaded modules[24m: Log_Reg[0m
+[4;33mReloaded modules[24m: Log_Reg[0m
+[4;33mReloaded modules[24m: Log_Reg[0m
+[[-1.08670637  1.08311531 -1.30164647  1.6196949   0.41492973 -0.77526518
+   0.53549523  6.72850066]] -2.87667913975

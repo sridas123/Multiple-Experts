@@ -14,11 +14,12 @@ datapath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Data\\"
 logpath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Logfiles\\"
 data_size=1000
 no_of_feat=8
-var_details_dict={'v1':0.5, 'v2': 0.4, 'v3': 0.5, 'v4': 0.5, 'v5': 0.5, 'v6': 0.2, 'v7': 0.6, 'v8':0.5}
+var_details_dict={'v1':0.4, 'v2': 0.5, 'v3': 0.5, 'v4': 0.5, 'v5': 0.5, 'v6': 0.4, 'v7': 0.6, 'v8':0.5}
 fdata="synthetic_data.csv"
 
-def calculate_sigmoid(weight, data):
+def calculate_sigmoid(weight, data,intercept):
     weightcrossdata=np.dot(weight,data)
+    weightcrossdata=weightcrossdata+intercept
     #print weightcrossdata
     prob=math.exp(weightcrossdata)/(1+math.exp(weightcrossdata))
     return prob
@@ -27,9 +28,11 @@ def calculate_sigmoid(weight, data):
 if __name__ == '__main__':
     sys.stdout = open(logpath+'log_generate_synthetic_data.txt', 'w')
     """Generate the weight vector from a Gaussian Distribution"""
-    mu=2;sigma=1
-    weight=np.random.normal(mu, sigma, 8)
-    weight=(np.expand_dims(np.asarray(weight),1)).T
+    #mu=2;sigma=1
+    #weight=np.random.normal(mu, sigma, 8)
+    weight=np.array([[2.5, -3.5, 6, -5, 7.5, 3, -2, 4]])
+    intercept=-2
+    #weight=(np.expand_dims(np.asarray(weight),1)).T
     #print "Weight shape", weight.shape
     print "The true weight vector to be estimated is", weight
     data_all=[]
@@ -46,8 +49,8 @@ if __name__ == '__main__':
     label=[]
     for i in range(0,data_all.shape[0]):
         data=np.expand_dims(data_all[i],1)
-        prob=calculate_sigmoid(weight,data)
-        if prob > 0.85:
+        prob=calculate_sigmoid(weight,data,intercept)
+        if prob > 0.9:
            prob=1
         else:
            prob=0 
