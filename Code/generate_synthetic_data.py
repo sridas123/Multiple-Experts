@@ -9,12 +9,13 @@ import random as rand
 import csv
 import math
 import sys
-#datapath="C:\\Users\\sxd170431\\Desktop\\Work\\Git\\Multiple-Experts\\Data\\"
-datapath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Data\\"
-logpath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Logfiles\\"
+datapath="C:\\Users\\sxd170431\\Desktop\\Work\\Projects\\Crowd_of_experts\\Multiple-Experts\\Data\\"
+logpath="C:\\Users\\sxd170431\\Desktop\\Work\\Projects\\Crowd_of_experts\\Multiple-Experts\\Logfiles\\"
+#datapath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Data\\"
+#logpath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Logfiles\\"
 data_size=1000
 no_of_feat=8
-var_details_dict={'v1':0.4, 'v2': 0.5, 'v3': 0.5, 'v4': 0.5, 'v5': 0.5, 'v6': 0.4, 'v7': 0.6, 'v8':0.5}
+var_details_dict={'v1':0.4, 'v2': 0.5, 'v3': 0.5, 'v4': 0.5, 'v5': 0.5, 'v6': 0.6, 'v7': 0.6, 'v8':0.5}
 fdata="synthetic_data.csv"
 
 def calculate_sigmoid(weight, data,intercept):
@@ -30,7 +31,7 @@ if __name__ == '__main__':
     """Generate the weight vector from a Gaussian Distribution"""
     #mu=2;sigma=1
     #weight=np.random.normal(mu, sigma, 8)
-    weight=np.array([[2.5, -3.5, 6, -5, 7.5, 3, -2, 4]])
+    weight=np.array([[3,2,-3,-1,1,-1,4,-4]])
     intercept=-2
     #weight=(np.expand_dims(np.asarray(weight),1)).T
     #print "Weight shape", weight.shape
