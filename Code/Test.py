@@ -6,5 +6,11 @@ Created on Thu Oct 18 15:49:42 2018
 """
 import numpy as np
 import matplotlib.pyplot as plt
-sample_feat=np.random.binomial(10, 0.6,10)  
-print sample_feat
+sri=np.array([[1,2,3],[4,2,3],[1,3,4],[9,2,3]])
+print sri
+#print np.where(sri[sri[:,1]==2])
+#print np.where((sri[:,1]==2))
+cond= (sri[:,1]==2) & (sri[:,2]==3)
+print cond
+Idx= np.where(cond)
+print Idx[0]
