@@ -13,7 +13,7 @@ data=datapath+"synthetic_data.csv"
 #datapath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Data\\"
 #logpath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Logfiles\\"
 
-# This code induces some percentage of noise in the feature spaces that are learnt by the data
+# This code induces some percentage of noise in the feature spaces that are learnt by the data based on the rules
 noise_dict={'R1': 0.6,'R2': 0.6, 'R3': 0.6}
 fdata="synthetic_data_noisy.csv"
 def loadcsv(filename):

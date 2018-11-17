@@ -14,3 +14,5 @@ cond= (sri[:,1]==2) & (sri[:,2]==3)
 print cond
 Idx= np.where(cond)
 print Idx[0]
+a=np.array([1,2,3,4,5,6,7,8,9,20])
+print np.random.choice(a, size=3, replace=False, p=None)
