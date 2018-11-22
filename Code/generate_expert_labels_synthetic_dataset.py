@@ -15,6 +15,7 @@ datapath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Data\\"
 logpath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Logfiles\\"
 data=datapath+"synthetic_data.csv"
 outdata=datapath+"synthetic_data_noisy_expert_label.csv"
+outdata_all=datapath+"synthetic_data_expert_label.csv"
 noisy_data=datapath+"synthetic_data_noisy.csv"
 #E1 is more expert than E3 E1> E2 > E3
 expert_dict={'E1':0.7, 'E2': 0.2, 'E3': 0.1}
@@ -59,9 +60,9 @@ if __name__ == '__main__':
    noisydata=loadcsv(noisy_data) 
    all_rule_data=[]
    consolidate_expert_labels={'F1':{},'F2':{},'F3':{}}
-   
+   final_expert_label={}
    #indices of data points satisfying rule 1
-   cond_R1=(alldata[:,0] ==0) & (alldata[:,1] ==1) & (alldata[:,3] ==0) & (alldata[:,4] ==1)
+   cond_R1=((alldata[:,0] ==0) & (alldata[:,1] ==1) & (alldata[:,3] ==0) & (alldata[:,4] ==1))
    Idx_R1=np.where(cond_R1)
    print Idx_R1[0][0:10]
    #for i in Idx_R1[0][0:10]:
@@ -83,7 +84,7 @@ if __name__ == '__main__':
    all_rule_data.append(label_R3_crowd)
    #print 'The length are',  len(all_rule_data[0]), len(all_rule_data[1]), len(all_rule_data[2])
    #print "Length choice", Idx_R1[0].shape, len(all_rule_data[0][0]),len(all_rule_data[0][1]),len(all_rule_data[0][2])
-   """Consolidate all the expert labels generated"""
+   """Consolidate all the expert labels generated in each feature space into Python dictionaries"""
    for i in range(0,len(all_rule_data)):
        label_dict={}
        each_feature_region_labels=all_rule_data[i]
@@ -102,10 +103,43 @@ if __name__ == '__main__':
            else: print '*******************************ERROR'   
        consolidate_expert_labels['F'+str(i+1)]=label_dict   
           
-   print consolidate_expert_labels['F1']
+   #print consolidate_expert_labels['F1']
+   """Add all the expert labels over all the feature spaces into a single dictionary"""
+   final_expert_label=consolidate_expert_labels['F1'].copy()
+   final_expert_label.update(consolidate_expert_labels['F2'])
+   final_expert_label.update(consolidate_expert_labels['F3'])
+   print "The final size of the dictionary is", len(final_expert_label)
    """Write all the multiple expert generated data in a file to be used by multiple expert algorithm"""
-   #fobj = open(outdata, "w") 
-   #for i in range(0:noisydata.shape[0]):
-   #    record=noisydata
+   """Writes multiple expert labels with the noisy data"""
+   with open(outdata, 'wb') as csvfile:   
+       csvwriter = csv.writer(csvfile, delimiter=',')
+       for i in range(0,noisydata.shape[0]):
+           record=noisydata[i]
+           record=np.expand_dims(record, axis=0)
+           if i in final_expert_label:
+              crowd_label= final_expert_label[i]
+           else:
+              crowd_label=[1000,1000,1000] 
+           crowd_label=np.expand_dims(np.asarray(crowd_label),axis=0)
+           line=np.hstack(((record,crowd_label)))
+           csvwriter.writerow(line[0])
+       csvfile.close()  
+   
+   """Writes multiple expert labels with the original data"""    
+   with open(outdata_all, 'wb') as csvfile:   
+       csvwriter = csv.writer(csvfile, delimiter=',')
+       for i in range(0,alldata.shape[0]):
+           record=alldata[i]
+           record=np.expand_dims(record, axis=0)
+           if i in final_expert_label:
+              crowd_label= final_expert_label[i]
+           else:
+              crowd_label=[1000,1000,1000] 
+           crowd_label=np.expand_dims(np.asarray(crowd_label),axis=0)
+           line=np.hstack(((record,crowd_label)))
+           csvwriter.writerow(line[0])
+       csvfile.close()      
+           
+   
        
    
