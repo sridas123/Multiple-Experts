@@ -11,11 +11,15 @@ import EM_multiple_experts as algs
 import numpy as np
 import csv
 import random as rnd
+import sys
 number_of_experts=3
 
 """File locations"""
-datapath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Data\\"
-logpath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Logfiles\\"
+#datapath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Data\\"
+#logpath="D:\\Grad Studies\\SRL\\Crowd_of_experts\\Multiple-Experts\\Logfiles\\"
+"""Office Path Locations"""
+datapath ="C:\\Users\\sxd170431\\Desktop\\Work\\Projects\\Crowd_of_experts\\Multiple-Experts\\Data\\"
+logpath  ="C:\\Users\\sxd170431\\Desktop\\Work\\Projects\\Crowd_of_experts\\Multiple-Experts\\Logfiles\\"
 """Data set names"""
 noisy_traindata="synthetic_data_noisy_expert_label.csv"
 testdata="synthetic_data_test.csv"
@@ -47,6 +51,8 @@ def getaccuracy(ytest, predictions):
     return (correct/float(len(ytest))) * 100.0
 
 if __name__ == '__main__':
+    
+    sys.stdout = open('log1_ME.txt', 'w')
     datatrain= loadcsv(datapath+noisy_traindata)
     datatest=loadcsv(datapath+testdata)
     datatrain_orig=loadcsv(datapath+traindata)
@@ -56,6 +62,7 @@ if __name__ == '__main__':
     parms={'regwt':0,'type':"None"}
     learner=algs.EM_Logit(parms)    
     learner.learn(dtrain,dtrain_label, dtrain_label_expert,number_of_experts)
+    sys.stdout.close()
     #learner1=algs.EM_Logit(parms)
     #learner1.learn(dtrain,dtrain_label)
     #learner2=algs.EM_Logit(parms)
